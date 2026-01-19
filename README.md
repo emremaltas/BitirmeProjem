@@ -7,6 +7,7 @@ All stages of the project — including the idea, software development, and hard
 You can access the full Graduation Thesis using the link below.
 
 🛠️ Project Schematic
+![Bitirme Tezi Şematiği](https://github.com/emremaltas/BitirmeProjem/blob/master/tez%20şema.png)
 
 📝 Summary
 
@@ -69,5 +70,5 @@ PIC C Compiler
 
 📄 Thesis
 
-📎 Click here
+📎 [Click here](https://github.com/emremaltas/BitirmeProjem/blob/master/Emre_MALTAŞ_181020037%20.pdf)
  to access the full thesis document.

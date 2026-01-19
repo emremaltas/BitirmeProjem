@@ -2,7 +2,7 @@
 📌 Project Overview
 
 This project was developed as part of the Biomedical Engineering Graduation Project course.
-All stages of the project — including the idea, software development, and hardware implementation — were completed by me within 3 months.
+All stages of the project — including the idea, software development, and hardware implementation — were completed by me.
 
 You can access the full Graduation Thesis using the link below.
 
